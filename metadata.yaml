@@ -1,0 +1,32 @@
+_repo: Reconnaissance-au-Maroc-1883-1884-Texte_75296
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Duveyrier, Henri
+    gutenberg_agent_id: '57931'
+    url: http://www.gutenberg.org/2009/agents/57931
+creator:
+  author:
+    agent_name: Foucauld, Charles de
+    gutenberg_agent_id: '57930'
+    url: http://www.gutenberg.org/2009/agents/57930
+description: ''
+gutenberg_issued: '2025-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75296'
+language: fr
+pgterms:marc904: https://archive.org/details/reconnaissanceaufouc
+pgterms:marc905: 20250110002212defoucauld
+pgterms:marc906: '1888'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive/Getty Research Institute)
+publication_note: '  $aFrance :$bChallamel, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Reconnaissance au Maroc, 1883-1884 (Texte)
+url: http://www.gutenberg.org/ebooks/75296

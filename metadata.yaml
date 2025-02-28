@@ -5,12 +5,17 @@ contributor:
     agent_name: Duveyrier, Henri
     gutenberg_agent_id: '57931'
     url: http://www.gutenberg.org/2009/agents/57931
+covers:
+- cover_type: archival
+  image_path: 75296-h/images/cover.jpg
 creator:
   author:
     agent_name: Foucauld, Charles de
     gutenberg_agent_id: '57930'
     url: http://www.gutenberg.org/2009/agents/57930
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75296#Reconnaissance-au-Maroc-1883-1884-Texte
 gutenberg_issued: '2025-02-05'
 gutenberg_type: Text
 identifiers:
